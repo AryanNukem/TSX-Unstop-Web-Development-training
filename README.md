@@ -1,6 +1,6 @@
-# Creative Web Design Project
-
-## Project Overview
+ Creative Web Design Project Assignment (1)
+ 
+ Project Overview
 This is a modern, responsive web design project that showcases creative web development with several advanced features. The project demonstrates modern web development practices with a focus on user experience, visual appeal, and performance.
 
 ## Project Structure
