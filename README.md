@@ -139,7 +139,7 @@ This is a modern, responsive web design project that showcases creative web deve
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-Your Name - [Your Email]
+Your Name - [Aryan Pandey]
 Project Link: [https://github.com/yourusername/projectname]
 
 ## Acknowledgments
